@@ -7,9 +7,9 @@ This R script generates a variety of plots based on the Electric power consumpti
 
 The following files are included in the repository:
 
--README.md - This document
+- README.md - This document
 
--create_plots.R - R script to generate plots based on the Electric power consumption dataset. The script requires the extracted dataset to be present in the working directory (household_power_consumption.txt)
+- create_plots.R - R script to generate plots based on the Electric power consumption dataset. The script requires the extracted dataset to be present in the working directory (household_power_consumption.txt)
 
 - plot1.png - First plot required for project
 
